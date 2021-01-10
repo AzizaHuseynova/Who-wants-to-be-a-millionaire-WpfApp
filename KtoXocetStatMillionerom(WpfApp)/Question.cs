@@ -14,7 +14,6 @@ namespace KtoXocetStatMillionerom_WpfApp_
         public string IncorrectAnswer2 { set; get; }
         public string IncorrectAnswer3 { set; get; }
         public int HardLevel { set; get; }
-
         public override string ToString()
         {
             return $"{Text}";
